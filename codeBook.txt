@@ -1,0 +1,276 @@
+"Subject"	
+			The id of the subject being tested
+			1 : 30
+	
+"Activity_Label"
+			Type of Activity
+			WALKING
+			WALKING_UPSTAIRS
+			WALKING_DOWNSTAIRS
+			SITTING
+			STANDING
+			LAYING
+
+"Time-Body-Accelaration-mean-X"
+			Mean of time measurement for body acceleration in X dimension
+			-1 : 1
+
+"Time-Body-Accelaration-mean-Y"
+			Mean of time measurement for body acceleration in Y dimension
+			-1 : 1
+			
+"Time-Body-Accelaration-mean-Z"
+			Mean of time measurement for body acceleration in Z dimension
+			-1 : 1
+
+"Time-Body-Accelaration-std-X"
+			Standard Deviation of time measurement for body acceleration in X dimension
+			0 : 1
+			
+"Time-Body-Accelaration-std-Y"
+			Standard Deviation of time measurement for body acceleration in Y dimension
+			0 : 1
+
+"Time-Body-Accelaration-std-Z"
+			Standard Deviation of time measurement for body acceleration in Z dimension
+			0 : 1
+
+"Time-Gravity-Acceleration-mean-X"
+			Mean of time measurement for gravity acceleration in X dimension
+			-1 : 1
+
+"Time-Gravity-Acceleration-mean-Y"
+			Mean of time measurement for gravity acceleration in Y dimension
+			-1 : 1
+
+"Time-Gravity-Acceleration-mean-Z"
+			Mean of time measurement for gravity acceleration in Z dimension
+			-1 : 1
+
+"Time-Gravity-Acceleration-std-X"
+			Standard Deviation of time measurement for gravity acceleration in X dimension
+			0 : 1
+
+"Time-Gravity-Acceleration-std-Y"
+			Standard Deviation of time measurement for gravity acceleration in Y dimension
+			0 : 1
+
+"Time-Gravity-Acceleration-std-Z"
+			Standard Deviation of time measurement for gravity acceleration in Z dimension
+			0 : 1
+
+"Time-Body-Accelaration-Jerk-mean-X"
+			Mean of time measurement for body acceleration jerk in X dimension
+			-1 : 1
+
+"Time-Body-Accelaration-Jerk-mean-Y"
+			Mean of time measurement for body acceleration jerk in Y dimension
+			-1 : 1
+
+"Time-Body-Accelaration-Jerk-mean-Z"
+			Mean of time measurement for body acceleration jerk in Z dimension
+			-1 : 1
+
+"Time-Body-Accelaration-Jerk-std-X"
+			Standard Deviation of time measurement for body acceleration jerk in X dimension
+			0 : 1
+
+"Time-Body-Accelaration-Jerk-std-Y"
+			Standard Deviation of time measurement for body acceleration jerk in Y dimension
+			0 : 1
+
+"Time-Body-Accelaration-Jerk-std-Z"
+			Standard Deviation of time measurement for body acceleration jerk in Z dimension
+			0 : 1
+
+"Time-Body-Gyro-mean-X"
+			Mean of time measurement for body angular velocity in X dimension
+			-1 : 1
+
+"Time-Body-Gyro-mean-Y"
+			Mean of time measurement for body angular velocity in Y dimension
+			-1 : 1
+
+"Time-Body-Gyro-mean-Z"
+			Mean of time measurement for body angular velocity in Z dimension
+			-1 : 1
+
+"Time-Body-Gyro-std-X"
+			Standard Deviation of time measurement for body angular velocity in X dimension
+			0 : 1
+
+"Time-Body-Gyro-std-Y"
+			Standard Deviation of time measurement for body angular velocity in Y dimension
+			0 : 1
+
+"Time-Body-Gyro-std-Z"
+			Standard Deviation of time measurement for body angular velocity in Z dimension
+			0 : 1
+
+"Time-Body-Gyro-Jerk-mean-X"
+			Mean of time measurement for body angular velocity jerk in X dimension
+			-1 : 1
+			
+"Time-Body-Gyro-Jerk-mean-Y"
+			Mean of time measurement for body angular velocity jerk in Y dimension
+			-1 : 1
+
+"Time-Body-Gyro-Jerk-mean-Z"
+			Mean of time measurement for body angular velocity jerk in Z dimension
+			-1 : 1
+
+"Time-Body-Gyro-Jerk-std-X"
+			Standard Deviation of time measurement for body angular velocity jerk in X dimension
+			0 : 1
+
+"Time-Body-Gyro-Jerk-std-Y"
+			Standard Deviation of time measurement for body angular velocity jerk in Y dimension
+			0 : 1
+
+"Time-Body-Gyro-Jerk-std-Z"
+			Standard Deviation of time measurement for body angular velocity jerk in Z dimension
+			0 : 1
+
+"Time-Body-Accelaration-Magnitude-mean"
+			Mean of time measurement for body acceleration magnitude
+			-1 : 1
+
+"Time-Body-Accelaration-Magnitude-std"
+			Standard Deviation of time measurement for body acceleration magnitude
+			0 : 1
+
+"Time-Gravity-Acceleration-Magnitude-mean"
+			Mean of time measurement for gravity acceleration magnitude
+			-1 : 1
+
+"Time-Gravity-Acceleration-Magnitude-std"
+			Standard Deviation of time measurement for gravity acceleration magnitude
+			0 : 1
+
+"Time-Body-Accelaration-Jerk-Magnitude-mean"
+			Mean of time measurement for body acceleration jerk magnitude
+			-1 : 1
+
+"Time-Body-Accelaration-Jerk-Magnitude-std"
+			Standard Deviation of time measurement for body acceleration jerk magnitude
+			0 : 1
+
+"Time-Body-Gyro-Magnitude-mean"
+			Mean of time measurement for body angular velocity magnitude
+			-1 : 1
+
+"Time-Body-Gyro-Magnitude-std"
+			Standard Deviation of time measurement for body angular velocity magnitude
+			0 : 1
+
+"Time-Body-Gyro-Jerk-Magnitude-mean"
+			Mean of time measurement for body angular velocity jerk magnitude
+			-1 : 1
+
+"Time-Body-Gyro-Jerk-Magnitude-std"
+			Standard Deviation of time measurement for body angular velocity jerk magnitude
+			0 : 1
+
+"Frequency-Body-Accelaration-mean-X"
+			Mean of frequency measurement for body acceleration in X dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-mean-Y"
+			Mean of frequency measurement for body acceleration in Y dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-mean-Z"
+			Mean of frequency measurement for body acceleration in Z dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-std-X"
+			Standard Deviation of frequency measurement for body acceleration in X dimension
+			0 : 1
+
+"Frequency-Body-Accelaration-std-Y"
+			Standard Deviation of frequency measurement for body acceleration in Y dimension
+			0 : 1
+
+"Frequency-Body-Accelaration-std-Z"
+			Standard Deviation of frequency measurement for body acceleration in Z dimension
+			0 : 1
+
+"Frequency-Body-Accelaration-Jerk-mean-X"
+			Mean of frequency measurement for body acceleration jerk in X dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-Jerk-mean-Y"
+			Mean of frequency measurement for body acceleration jerk in Y dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-Jerk-mean-Z"
+			Mean of frequency measurement for body acceleration jerk in Z dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-Jerk-std-X"
+			Standard Deviation of frequency measurement for body acceleration jerk in X dimension
+			0 : 1
+
+"Frequency-Body-Accelaration-Jerk-std-Y"
+			Standard Deviation of frequency measurement for body acceleration jerk in Y dimension
+			0 : 1
+
+"Frequency-Body-Accelaration-Jerk-std-Z"
+			Standard Deviation of frequency measurement for body acceleration jerk in Z dimension
+			0 : 1
+
+"Frequency-Body-Gyro-mean-X"
+			Mean of frequency measurement for body angular velocity in X dimension
+			-1 : 1
+
+"Frequency-Body-Gyro-mean-Y"
+			Mean of frequency measurement for body angular velocity in Y dimension
+			-1 : 1
+
+"Frequency-Body-Gyro-mean-Z"
+			Mean of frequency measurement for body angular velocity in Z dimension
+			-1 : 1
+
+"Frequency-Body-Gyro-std-X"
+			Standard Deviation of frequency measurement for body angular velocity in X dimension
+			-1 : 1
+
+"Frequency-Body-Gyro-std-Y"
+			Standard Deviation of frequency measurement for body angular velocity in Y dimension
+			-1 : 1
+
+"Frequency-Body-Gyro-std-Z"
+			Standard Deviation of frequency measurement for body angular velocity in Z dimension
+			-1 : 1
+
+"Frequency-Body-Accelaration-Magnitude-mean"
+			Mean of frequency measurement for body accelaration magnitude
+			-1 : 1
+
+"Frequency-Body-Accelaration-Magnitude-std"
+			Standard Deviation of frequency measurement for body accelaration magnitude
+			0 : 1
+
+"Frequency-Body-Accelaration-Jerk-Magnitude-mean"
+			Mean of frequency measurement for body accelaration jerk magnitude
+			-1 : 1
+
+"Frequency-Body-Accelaration-Jerk-Magnitude-std"
+			Standard Deviation of frequency measurement for body accelaration jerk magnitude
+			0 : 1
+
+"Frequency-Body-Gyro-Magnitude-mean"
+			Mean of frequency measurement for body angular velocity magnitude
+			-1 : 1
+
+"Frequency-Body-Gyro-Magnitude-std"
+			Standard Deviation of frequency measurement for body angular velocity magnitude
+			0 : 1
+
+"Frequency-Body-Gyro-Jerk-Magnitude-mean"
+			Mean of frequency measurement for body angular velocity jerk magnitude
+			-1 : 1
+
+"Frequency-Body-Gyro-Jerk-Magnitude-std"
+			Standard Deviation of frequency measurement for body angular velocity jerk magnitude
+			0 : 1
