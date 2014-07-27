@@ -51,7 +51,7 @@ first <- rbind(test_features, train_features)
 
 #       Add column names to activity labels so we can use them for merge.
 #       column name for activity should match in both data sets.
-names(activity_label) <- c("activity", "Activity-Label")
+names(activity_label) <- c("activity", "Activity_Label")
 
 #        Merge the first data set with activity label to expand the activity names
 first <- merge(first, activity_label, by = "activity", all = TRUE)
@@ -64,10 +64,10 @@ newNames <- read.table("colNames.txt")
 names(first) <- newNames[,1]
 
 #       Use aggregate function to calculate means for all variables.
-second <- aggregate(first[,c(-67,-68)], by=list(first$Subject, first$Activity-Label), FUN = mean)
+second <- aggregate(first[,c(-67,-68)], by=list(first$Subject, first$Activity_Label), FUN = mean)
 
 #       Update column names for the id fields, to remove the default names.
-names(second)[c(1,2)] <- c("Subject", "Activity-Label")
+names(second)[c(1,2)] <- c("Subject", "Activity_Label")
 
 #       Write the data set into a file for submission
 write.table(second, file = "tidyData.txt", row.names = FALSE)
